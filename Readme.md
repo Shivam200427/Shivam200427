@@ -1,154 +1,146 @@
 <div align="center">
 
-<h1>Hi, I'm Shivam Jain 👋</h1>
+# 👋 Hi, I'm Shivam Jain
+
+### AI/ML Engineer · Full-Stack Developer · Computer Science Student
 
 <p>
-  <strong>AI/ML Engineer · Computer Science @ Bennett University</strong><br/>
-  Passionate about building intelligent systems that solve real-world problems.
+  I build intelligent, practical products at the intersection of <strong>machine learning</strong>, <strong>computer vision</strong>, and <strong>modern web development</strong>.
 </p>
 
 <p>
-  <a href="mailto:shivamjainqwer@gmail.com">
-    <img src="https://img.shields.io/badge/Email-shivamjainqwer%40gmail.com-black?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/shivam-jain-966461319" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shivam_Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Shivam200427" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Shivam200427-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:shivamjainqwer@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/shivam-jain-966461319"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Shivam200427"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=header" width="100%" alt="Decorative header" />
 
 </div>
 
----
+## ✨ A little about me
 
-## 🙋‍♂️ About Me
+```text
+🎓  B.Tech Computer Science Engineering @ Bennett University — Expected 2027
+📈  CGPA: 8.03
+🔭  Currently looking for opportunities in AI/ML and Data Analytics
+🧠  Interested in Deep Learning, Computer Vision, NLP, Healthcare AI, and Product Engineering
+🤝  Comfortable working across research, development, Agile collaboration, and product delivery
+🏆  NCC Best Cadet Gold Medalist
+```
 
-- 🎓 B.Tech CSE student at **Bennett University, Greater Noida** (Expected 2027) — **CGPA: 8.03**
-- 🔭 Currently seeking an **Internship in AI/ML or Data Analytics**
-- 🧠 Interests: Deep Learning, Computer Vision, NLP, Sentiment Analysis, Healthcare AI
-- 🏆 Gold Medal — NCC Best Cadet Award (2018)
-- 📜 Letter of Recommendation for consistent academic performance & leadership
-- 🤝 Experienced in Agile frameworks, Jira, and cross-functional team collaboration
+## 🧩 What I enjoy building
 
----
+| Focus | What it looks like |
+| --- | --- |
+| 🧠 **Applied AI/ML** | End-to-end models that solve meaningful, real-world problems |
+| 👁️ **Computer Vision** | Image classification, object detection, explainable AI, and sensor fusion |
+| 🌐 **Full-Stack Products** | Clean interfaces backed by reliable APIs and data systems |
+| 📊 **Data & Analytics** | Insightful dashboards, experimentation, and decision-support tools |
+
+## 🛠️ Tech stack
+
+### 🎨 Frontend
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript" /></a><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" alt="React Bootstrap Tailwind Figma" /></a>
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,java" alt="Node.js Express Python Java" /></a><br/>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,fastapi,postman,linux" alt="C++ FastAPI Postman Linux" /></a>
+</p>
+
+### 🗄️ Database
+
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" alt="MySQL MongoDB PostgreSQL Redis" /></a></p>
+
+### 🛠️ Tools & DevOps
+
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git GitHub VS Code Docker" /></a></p>
+
+### 🤖 ML / AI
+
+<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="TensorFlow PyTorch Scikit-learn OpenCV" /></a></p>
+
+## 🚀 Featured work
+
+### 🫁 [Caryaai](https://caryaai.streamlit.app) · Thoracic Disease Detection
+
+A deep learning system that detects and classifies **14 thoracic diseases** from frontal chest X-rays.
+
+- CNN-based multi-label disease prediction
+- CLAHE, gamma correction, and Grad-CAM explainability
+- Built with the NIH ChestX-ray14 dataset
+- **Stack:** Python · PyTorch · TensorFlow · OpenCV · NumPy · pandas · Streamlit
+
+### 😶 EmotionI · Multimodal Emotion Recognition
+
+An AI system that combines **facial expressions, speech, and text** to understand human emotion.
+
+- Facial emotion detection and speech-to-text processing
+- NLP-based sentiment analysis
+- Designed for customer feedback and mental wellness use cases
+- **Stack:** Python · Flask · OpenCV · TensorFlow · NLTK · JavaScript
+
+### 🔐 Security Analytics Authentication System
+
+An intelligent authentication platform that detects suspicious logins using **IP geolocation and behavioural analytics**.
+
+- Risk scoring and device fingerprinting
+- Behavioural pattern detection
+- Real-time threat visualization with maps
+- **Stack:** Python · Flask · MaxMind GeoIP · Google Maps API · JavaScript · SQL
+
+### 🧘 Project Serenity · Smart India Hackathon
+
+An AI-powered mental wellness application built with a team of five.
+
+- Sentiment analysis and behavioural insights
+- Mood tracking and mindfulness exercises
+- Supportive, accessible, and intuitive user experience
+- **Stack:** Python · TensorFlow · NLTK · Flask · JavaScript
 
 ## 💼 Experience
 
-**AI/ML Intern — AeroSearch**
-Feb 2026 – Feb 2026 (1 month) | Noida, India
+**AI/ML Intern — AeroSearch** · Noida, India  
+*February 2026*
 
-- Built an object detection system leveraging sensor fusion of RGB and thermal images captured from the same scene across different sensors.
-- Designed and implemented a multi-modal pipeline to align, fuse, and process data from heterogeneous sensor inputs for robust detection.
-- Improved detection accuracy in challenging conditions by combining complementary information from visible-light and thermal imagery.
+- Built an object detection system using sensor fusion across RGB and thermal imagery.
+- Designed a multimodal pipeline to align, fuse, and process heterogeneous sensor inputs.
+- Improved detection performance in challenging visual conditions by combining complementary data sources.
 
----
+## 🎓 Education & certifications
 
-## 🛠️ Tech Stack
+**B.Tech in Computer Science Engineering** · Bennett University, Greater Noida  
+*Expected 2027 · CGPA: 8.03*
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+**Certifications:** TensorFlow for AI, ML & Deep Learning · Google Project Initiation · Machine Learning: Clustering & Retrieval · Extreme Programming: XP Practices in Agile
 
-### AI / ML / DL
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3E8EAB?style=flat-square&logo=python&logoColor=white)
-
-### Tools & Frameworks
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🚀 Featured Projects
-
-### 🫁 [Caryaai](https://caryaai.streamlit.app) — Thoracic Disease Detection
-> Deep learning system to detect and classify **14 thoracic diseases** from frontal chest X-rays.
-
-- CNN for multi-label disease prediction across 14 conditions
-- Advanced image preprocessing: CLAHE, Grad-CAM, gamma correction
-- Dataset: **NIH ChestX-ray14** (130K X-rays, 30K patients)
-- **Stack:** Python, PyTorch, TensorFlow, OpenCV, NumPy, pandas, Streamlit
-
----
-
-### 😶 EmotionI — Multimodal Emotion Recognition
-> AI system analysing human emotions via **facial expressions, speech & text** simultaneously.
-
-- Facial emotion detection + speech-to-text + NLP sentiment analysis
-- Applied to customer feedback analysis and mental health support
-- **Stack:** Python, Flask, OpenCV, TensorFlow, NLTK, Speech Recognition, HTML/CSS/JS
-
----
-
-### 🔐 Enhanced User Authentication with Security Analytics
-> Intelligent authentication detecting suspicious logins via **IP geolocation & behavioural analytics**.
-
-- Risk scoring algorithms + real-time Google Maps threat dashboard
-- Device fingerprinting and behavioral pattern detection
-- **Stack:** Python, Flask, MaxMind GeoIP, Google Maps API, JavaScript, SQL
-
----
-
-### 🧘 Project Serenity — AI Mental Wellness App *(Smart India Hackathon)*
-> AI-driven mental wellness app built with a team of 5 at **Smart India Hackathon**.
-
-- Sentiment analysis + behavioural insights pipeline for mood tracking
-- Real-time emotional support with mindfulness exercises via intuitive UI/UX
-- **Stack:** Python, TensorFlow, NLTK, Flask, JavaScript, HTML/CSS
-
----
-
-## 🏫 Education
-
-| Degree | Institution | Year | CGPA |
-|---|---|---|---|
-| B.Tech Computer Science Engineering | Bennett University, Greater Noida | Expected 2027 | 8.03 |
-
-**Relevant Courses:** Data Structures & Algorithms · Machine Learning · DBMS · Operating Systems · Computer Networks · Linear Algebra · High Performance Computing · Software Project Management
-
----
-
-## 📜 Certifications
-
-| Certification | Issuer |
-|---|---|
-| Introduction to TensorFlow for AI, ML, and Deep Learning | DeepLearning.AI |
-| Project Initiation: Starting a Successful Project | Google |
-| Machine Learning: Clustering & Retrieval | University of Washington |
-| Extreme Programming: XP Practices in Agile | Infosys |
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub at a glance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shivam200427&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam200427&layout=compact&theme=default&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivam200427&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563eb&icon_color=06b6d4&text_color=64748b&rank_icon=github" height="170" alt="Shivam's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam200427&layout=compact&hide_border=true&bg_color=00000000&title_color=2563eb&text_color=64748b" height="170" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivam200427&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Shivam200427&hide_border=true&background=00000000&ring=2563eb&fire=f97316&currStreakLabel=06b6d4&sideLabels=64748b&dates=64748b" alt="GitHub contribution streak" />
 </div>
 
----
+## 🤝 Let's connect
+
+I'm open to internship opportunities, impactful collaborations, and conversations about AI, software engineering, and ambitious product ideas.
 
 <div align="center">
-  <i>Open to internship opportunities in AI/ML and Data Analytics. Let's build something impactful together!</i><br/><br/>
-  <a href="mailto:shivamjainqwer@gmail.com">📧 shivamjainqwer@gmail.com</a> · <a href="tel:+918260973845">📞 +91-8260973845</a>
+
+**Have an idea worth building? Let's make it real.**
+
+<a href="mailto:shivamjainqwer@gmail.com">📧 shivamjainqwer@gmail.com</a> · <a href="tel:+918260973845">📞 +91-8260973845</a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Decorative footer" />
+
 </div>
