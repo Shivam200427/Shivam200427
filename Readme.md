@@ -1,11 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Shivam Jain
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:06b6d4&height=190&section=header&text=Shivam%20Jain&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%20%E2%80%A2%20%20Full-Stack%20Developer&descAlignY=61&descSize=18" width="100%" alt="Shivam Jain banner" />
 
-### AI/ML Engineer · Full-Stack Developer · Computer Science Student
+<h2>👋 Building intelligent products with code, data & curiosity</h2>
 
 <p>
-  I build intelligent, practical products at the intersection of <strong>machine learning</strong>, <strong>computer vision</strong>, and <strong>modern web development</strong>.
+  I build practical systems at the intersection of <strong>machine learning</strong>,
+  <strong>computer vision</strong>, and <strong>modern web development</strong>.
 </p>
 
 <p>
@@ -14,7 +15,7 @@
   <a href="https://github.com/Shivam200427"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=120&section=header" width="100%" alt="Decorative header" />
+<p><em>Currently open to AI/ML and Data Analytics opportunities 🚀</em></p>
 
 </div>
 
@@ -31,78 +32,74 @@
 
 ## 🧩 What I enjoy building
 
-| Focus | What it looks like |
-| --- | --- |
-| 🧠 **Applied AI/ML** | End-to-end models that solve meaningful, real-world problems |
-| 👁️ **Computer Vision** | Image classification, object detection, explainable AI, and sensor fusion |
-| 🌐 **Full-Stack Products** | Clean interfaces backed by reliable APIs and data systems |
-| 📊 **Data & Analytics** | Insightful dashboards, experimentation, and decision-support tools |
+<div align="center">
 
-## 🛠️ Tech stack
+| 🧠 Applied AI/ML | 👁️ Computer Vision | 🌐 Full-Stack Products | 📊 Data & Analytics |
+|:---:|:---:|:---:|:---:|
+| Real-world intelligent systems | Detection, explainability & sensor fusion | Clean interfaces and reliable APIs | Dashboards, experiments & insights |
 
-### 🎨 Frontend
+</div>
 
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript" /></a><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma" alt="React Bootstrap Tailwind Figma" /></a>
-</p>
+<br/>
 
-### ⚙️ Backend
+<div align="center">
 
-<p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,python,java" alt="Node.js Express Python Java" /></a><br/>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=cpp,fastapi,postman,linux" alt="C++ FastAPI Postman Linux" /></a>
-</p>
+# 🛠️ My Tech Universe
 
-### 🗄️ Database
+<p><em>A carefully chosen toolkit for turning ideas into useful products.</em></p>
 
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" alt="MySQL MongoDB PostgreSQL Redis" /></a></p>
+<!-- The centered card layout creates a floating, dashboard-style feel while staying GitHub-compatible. -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🎨 Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4" height="50" alt="HTML CSS JavaScript TypeScript" /><br/>
+      <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&perline=4" height="50" alt="React Bootstrap Tailwind Figma" />
+    </td>
+    <td align="center" width="50%">
+      <h3>⚙️ Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,python,java&perline=4" height="50" alt="Node.js Express Python Java" /><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,fastapi,postman,linux&perline=4" height="50" alt="C++ FastAPI Postman Linux" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🗄️ Database</h3>
+      <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis&perline=4" height="50" alt="MySQL MongoDB PostgreSQL Redis" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🛠️ Tools & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,docker&perline=4" height="50" alt="Git GitHub VS Code Docker" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>🤖 ML / AI</h3>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4" height="50" alt="TensorFlow PyTorch Scikit-learn OpenCV" />
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tools & DevOps
+<p>✨ <strong>Design · Develop · Deploy · Improve</strong> ✨</p>
 
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Git GitHub VS Code Docker" /></a></p>
-
-### 🤖 ML / AI
-
-<p><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="TensorFlow PyTorch Scikit-learn OpenCV" /></a></p>
+</div>
 
 ## 🚀 Featured work
 
-### 🫁 [Caryaai](https://caryaai.streamlit.app) · Thoracic Disease Detection
+<div align="center">
 
-A deep learning system that detects and classifies **14 thoracic diseases** from frontal chest X-rays.
+| Project | What I built |
+|:---:|:---|
+| 🫁 **[Caryaai](https://caryaai.streamlit.app)** | Deep learning system for detecting and classifying **14 thoracic diseases** from chest X-rays using CNNs, Grad-CAM, CLAHE, and Streamlit. |
+| 😶 **EmotionI** | Multimodal emotion recognition using facial expressions, speech, and text for customer feedback and mental wellness use cases. |
+| 🔐 **Security Analytics** | Intelligent authentication with IP geolocation, device fingerprinting, behavioural analytics, risk scoring, and threat visualization. |
+| 🧘 **Project Serenity** | AI-powered mental wellness application created for the Smart India Hackathon with sentiment analysis and mood tracking. |
 
-- CNN-based multi-label disease prediction
-- CLAHE, gamma correction, and Grad-CAM explainability
-- Built with the NIH ChestX-ray14 dataset
-- **Stack:** Python · PyTorch · TensorFlow · OpenCV · NumPy · pandas · Streamlit
+</div>
 
-### 😶 EmotionI · Multimodal Emotion Recognition
+### 🔬 Selected project stacks
 
-An AI system that combines **facial expressions, speech, and text** to understand human emotion.
-
-- Facial emotion detection and speech-to-text processing
-- NLP-based sentiment analysis
-- Designed for customer feedback and mental wellness use cases
-- **Stack:** Python · Flask · OpenCV · TensorFlow · NLTK · JavaScript
-
-### 🔐 Security Analytics Authentication System
-
-An intelligent authentication platform that detects suspicious logins using **IP geolocation and behavioural analytics**.
-
-- Risk scoring and device fingerprinting
-- Behavioural pattern detection
-- Real-time threat visualization with maps
-- **Stack:** Python · Flask · MaxMind GeoIP · Google Maps API · JavaScript · SQL
-
-### 🧘 Project Serenity · Smart India Hackathon
-
-An AI-powered mental wellness application built with a team of five.
-
-- Sentiment analysis and behavioural insights
-- Mood tracking and mindfulness exercises
-- Supportive, accessible, and intuitive user experience
-- **Stack:** Python · TensorFlow · NLTK · Flask · JavaScript
+`Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `Flask` · `Streamlit` · `NLTK` · `JavaScript` · `SQL` · `Google Maps API`
 
 ## 💼 Experience
 
@@ -133,14 +130,14 @@ An AI-powered mental wellness application built with a team of five.
 
 ## 🤝 Let's connect
 
-I'm open to internship opportunities, impactful collaborations, and conversations about AI, software engineering, and ambitious product ideas.
-
 <div align="center">
+
+I'm open to internship opportunities, impactful collaborations, and conversations about AI, software engineering, and ambitious product ideas.
 
 **Have an idea worth building? Let's make it real.**
 
 <a href="mailto:shivamjainqwer@gmail.com">📧 shivamjainqwer@gmail.com</a> · <a href="tel:+918260973845">📞 +91-8260973845</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=100&section=footer" width="100%" alt="Decorative footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:0f172a&height=110&section=footer" width="100%" alt="Decorative footer" />
 
 </div>
