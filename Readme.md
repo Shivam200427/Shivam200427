@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:111827,70:312e81,100:06b6d4&height=220&section=header&text=SHIVAM%20JAIN&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%20%E2%80%A2%20%20FULL-STACK%20DEVELOPER&descAlignY=62&descSize=17&descColor=67e8f9" width="100%" alt="Shivam Jain neon banner" />
 
+<img src="./assets/premium-orbit.svg" width="100%" alt="Abstract AI systems orbit graphic" />
+
 <h2>⚡ Building intelligent systems for a better digital future</h2>
 
 <p>
