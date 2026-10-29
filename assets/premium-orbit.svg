@@ -1,0 +1,51 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI systems orbit graphic</title>
+  <desc id="desc">A premium dark abstract graphic showing connected nodes orbiting an intelligent core.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.5" stop-color="#111827"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <linearGradient id="line" x1="260" y1="40" x2="960" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#F472B6" stop-opacity="0.25"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientTransform="translate(600 150) rotate(90) scale(70)">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.45" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#312E81" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" stroke="#94A3B8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="24" fill="url(#grid)"/>
+  <ellipse cx="600" cy="150" rx="300" ry="92" stroke="url(#line)" stroke-width="1.5" transform="rotate(-13 600 150)"/>
+  <ellipse cx="600" cy="150" rx="226" ry="70" stroke="url(#line)" stroke-width="1.2" transform="rotate(31 600 150)"/>
+  <ellipse cx="600" cy="150" rx="372" ry="116" stroke="url(#line)" stroke-opacity="0.45" transform="rotate(67 600 150)"/>
+  <path d="M270 201L435 93L600 150L770 70L954 207" stroke="url(#line)" stroke-width="1.2" stroke-dasharray="4 8"/>
+  <path d="M338 64L495 229L600 150L802 241L883 77" stroke="url(#line)" stroke-width="1.2" stroke-dasharray="3 9"/>
+  <circle cx="600" cy="150" r="70" fill="url(#core)" filter="url(#glow)"/>
+  <circle cx="600" cy="150" r="20" fill="#67E8F9" fill-opacity="0.18" stroke="#A5F3FC"/>
+  <circle cx="600" cy="150" r="7" fill="#ECFEFF"/>
+  <g fill="#67E8F9" filter="url(#glow)">
+    <circle cx="270" cy="201" r="5"/><circle cx="435" cy="93" r="4"/>
+    <circle cx="770" cy="70" r="5"/><circle cx="954" cy="207" r="4"/>
+  </g>
+  <g fill="#C4B5FD" filter="url(#glow)">
+    <circle cx="338" cy="64" r="4"/><circle cx="495" cy="229" r="5"/>
+    <circle cx="802" cy="241" r="4"/><circle cx="883" cy="77" r="5"/>
+  </g>
+  <g fill="#CBD5E1" fill-opacity="0.7">
+    <circle cx="110" cy="58" r="1.5"/><circle cx="171" cy="246" r="1.5"/>
+    <circle cx="1040" cy="61" r="1.5"/><circle cx="1095" cy="235" r="1.5"/>
+  </g>
+  <text x="600" y="270" text-anchor="middle" fill="#CBD5E1" fill-opacity="0.72" font-family="Inter,Arial,sans-serif" font-size="12" letter-spacing="4">INTELLIGENCE • CREATIVITY • EXECUTION</text>
+</svg>
