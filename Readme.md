@@ -135,12 +135,20 @@
 
 ## `06` — GITHUB TELEMETRY
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shivam200427&show_icons=true&hide_border=true&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=cbd5e1&ring_color=06b6d4&rank_icon=github" height="170" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam200427&layout=compact&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=cbd5e1" height="170" alt="Top languages" />
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Shivam200427&show_icons=true&hide_border=true&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=ffffff&ring_color=06b6d4&border_color=1e293b&rank_icon=github" width="100%" alt="GitHub stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam200427&layout=compact&langs_count=6&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=ffffff&border_color=1e293b" width="100%" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Shivam200427&hide_border=true&background=050816&ring=06b6d4&fire=f472b6&currStreakLabel=67e8f9&sideLabels=cbd5e1&dates=94a3b8" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Shivam200427&hide_border=true&background=050816&ring=06b6d4&fire=f472b6&currStreakLabel=67e8f9&currStreakNum=ffffff&sideLabels=cbd5e1&sideNums=ffffff&dates=94a3b8" width="75%" alt="GitHub contribution streak" />
 
 </div>
 
