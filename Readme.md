@@ -34,7 +34,7 @@
 
 | 🎓 **Education** | 📈 **CGPA** | 🧠 **Focus** | 🏆 **Highlight** |
 |:---:|:---:|:---:|:---:|
-| Bennett University | 8.03 | AI/ML + Data | NCC Best Cadet Gold Medalist |
+| Bennett University | 8.13 | AI/ML + Data | NCC Best Cadet Gold Medalist |
 
 </div>
 
