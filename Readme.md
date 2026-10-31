@@ -22,11 +22,11 @@
 
 <div align="center">
 
-### `01` — PROFILE INITIALIZED
+### `01` — SUMMARY
 
 </div>
 
-> I’m Shivam Jain, a Computer Science student and AI/ML engineer who enjoys turning complex ideas into useful, human-centered products. I work across intelligent systems, computer vision, APIs, data, and polished interfaces.
+> I’m Shivam Jain, a Computer Science student and AI/ML engineer who enjoys turning complex ideas into useful, human-centered products. I work across intelligent systems, computer vision, APIs, data, and polished interfaces. I’m currently working as an AI/ML Intern at AeroSearch, where I build object detection systems using RGB and thermal sensor fusion.
 
 <div align="center">
 
@@ -117,53 +117,3 @@
 > AI-powered mental wellness experience with sentiment analysis, mood tracking, and mindfulness support.
 
 `Python` `TensorFlow` `NLTK` `Flask` `JavaScript`
-
-<div align="center">
-
-## `05` — EXPERIENCE LOG
-
-</div>
-
-**AI/ML Intern — AeroSearch** · Noida, India  
-*February 2026*
-
-- Built an object detection system using sensor fusion across RGB and thermal imagery.
-- Designed a multimodal pipeline to align, fuse, and process heterogeneous sensor inputs.
-- Improved detection performance in challenging visual conditions by combining complementary data sources.
-
-<div align="center">
-
-## `06` — GITHUB TELEMETRY
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Shivam200427&show_icons=true&hide_border=true&bg_color=050816&title_color=67e8f9&icon_color=a78bfa&text_color=ffffff&ring_color=06b6d4&border_color=1e293b&rank_icon=github" width="100%" alt="GitHub stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam200427&layout=compact&langs_count=6&hide_border=true&bg_color=050816&title_color=67e8f9&text_color=ffffff&border_color=1e293b" width="100%" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Shivam200427&hide_border=true&background=050816&ring=06b6d4&fire=f472b6&currStreakLabel=67e8f9&currStreakNum=ffffff&sideLabels=cbd5e1&sideNums=ffffff&dates=94a3b8" width="75%" alt="GitHub contribution streak" />
-
-</div>
-
-<div align="center">
-
-## `07` — CONNECT TO THE BUILDER
-
-<p>Open to internships, collaborations, and ambitious ideas that deserve to be built.</p>
-
-<a href="mailto:shivamjainqwer@gmail.com"><img src="https://img.shields.io/badge/LET'S%20BUILD-06b6d4?style=for-the-badge&logo=rocket&logoColor=white" alt="Let's build" /></a>
-
-<br/><br/>
-
-<code>Have an idea? Send a signal → shivamjainqwer@gmail.com</code>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,35:2563eb,70:312e81,100:050816&height=130&section=footer" width="100%" alt="Neon footer" />
-
-</div>
