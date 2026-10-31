@@ -28,6 +28,8 @@
 
 > I’m Shivam Jain, a Computer Science student and AI/ML engineer who enjoys turning complex ideas into useful, human-centered products. I work across intelligent systems, computer vision, APIs, data, and polished interfaces. I previously worked as an AI/ML Intern at AeroSearch, where I built object detection systems using RGB and thermal sensor fusion.
 
+<p>Open to coffee chats, collaborations, internships, and ambitious ideas. Feel free to connect and start a conversation.</p>
+
 <div align="center">
 
 | 🎓 **Education** | 📈 **CGPA** | 🧠 **Focus** | 🏆 **Highlight** |
